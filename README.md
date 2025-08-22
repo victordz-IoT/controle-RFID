@@ -173,7 +173,7 @@ O código controla a leitura de NFC via o módulo RC522 e envia o UID para o Nod
 
 ## **Exemplo de Uso**
 Este projeto foi inicialmente desenvolvido para um trabalho da faculdade.
-[Clique aqui](https://drive.google.com/file/d/1hLegEqV--dIES9441EJVlf-4Bdamnr0c/view?usp=drive_link) para ver o video do projeto funcionando.
+[Clique aqui](https://drive.google.com/file/d/1YuBpY3rcbdHWrL69YJ1fqJ8FjVwvluek/view?usp=drive_link) para ver o video do projeto funcionando.
 
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias no projeto. Crie um fork deste repositório, faça suas alterações e submeta um pull request para revisão.
